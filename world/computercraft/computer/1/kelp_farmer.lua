@@ -109,10 +109,13 @@ function main_loop()
         plow()
         if isHome() then
             deposit()
-			-- sleep 5mins - 10second buffer - (1 second * area)
-			local sleep_time = math.max(0, 290 - area)
-			print('Waiting for growth...', sleep_time, 'seconds')
-			sleep(sleep_time)
+			
+			-- Temporarily disabling "Waiting for growth" feature
+			--	-- sleep 5mins - 10second buffer - (1 second * area)
+			--	local sleep_time = math.max(0, 290 - area)
+			--	print('Waiting for growth...', sleep_time, 'seconds...')
+			--	sleep(sleep_time)
+			print('NOT Waiting for growth...')
 			
             return
         else
