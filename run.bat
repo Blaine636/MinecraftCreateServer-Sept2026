@@ -1,3 +1,8 @@
 @echo off
-java @user_jvm_args.txt @libraries\net\neoforged\neoforge\21.1.248\win_args.txt %*
-pause
+setlocal
+
+cd /d "%~dp0"
+
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0run-server.ps1"
+
+exit /b %ERRORLEVEL%
