@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2024-04-06 13:30:32 -0600",
       "minecraft:snowy_slopes": "2026-09-04 00:36:25 -0600",
+      "minecraft:mushroom_fields": "2026-09-16 15:53:34 -0600",
       "minecraft:forest": "2024-02-26 13:11:36 -0700",
       "minecraft:taiga": "2026-08-22 22:49:05 -0600",
       "minecraft:deep_ocean": "2024-03-22 22:15:24 -0600",
@@ -818,9 +819,11 @@
       "minecraft:pillager": "2024-03-22 12:26:33 -0600",
       "minecraft:blaze": "2024-04-04 21:49:30 -0600",
       "minecraft:skeleton": "2024-02-26 13:32:43 -0700",
+      "minecraft:elder_guardian": "2026-09-16 15:48:26 -0600",
       "minecraft:bogged": "2026-08-29 00:53:16 -0600",
       "minecraft:ghast": "2024-03-20 21:13:50 -0600",
       "minecraft:hoglin": "2024-03-19 19:21:03 -0600",
+      "minecraft:guardian": "2026-09-16 15:29:38 -0600",
       "minecraft:vindicator": "2026-08-28 22:07:12 -0600",
       "minecraft:magma_cube": "2024-03-19 22:20:35 -0600",
       "minecraft:spider": "2024-03-03 16:42:42 -0700",
@@ -2639,7 +2642,8 @@
       "minecraft:chicken": "2024-03-20 19:22:13 -0600",
       "minecraft:wolf": "2026-08-23 01:09:44 -0600",
       "minecraft:turtle": "2026-08-15 02:17:34 -0600",
-      "minecraft:sheep": "2026-08-23 22:55:19 -0600"
+      "minecraft:sheep": "2026-08-23 22:55:19 -0600",
+      "minecraft:bee": "2026-09-16 16:20:54 -0600"
     },
     "done": false
   },
@@ -9389,6 +9393,72 @@
   "musketmod:recipes/musket_upgrade_smithing_template": {
     "criteria": {
       "has_smithing_template": "2026-09-15 23:20:09 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2026-09-16 15:30:05 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2026-09-16 15:40:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2026-09-16 15:48:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2026-09-16 15:30:05 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2026-09-16 15:30:05 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2026-09-16 15:48:34 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2026-09-16 15:40:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2026-09-16 15:40:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-09-16 15:48:34 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2026-09-16 15:30:05 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2026-09-16 15:40:55 -0600"
     },
     "done": true
   },
