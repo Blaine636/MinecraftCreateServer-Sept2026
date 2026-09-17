@@ -835,6 +835,7 @@
       "minecraft:witch": "2026-08-30 19:59:36 -0600",
       "minecraft:wither_skeleton": "2024-04-04 22:03:04 -0600",
       "minecraft:ender_dragon": "2024-10-31 15:55:22 -0600",
+      "minecraft:shulker": "2026-09-16 18:53:06 -0600",
       "minecraft:cave_spider": "2026-08-26 23:51:22 -0600",
       "minecraft:piglin": "2024-03-08 19:30:09 -0700",
       "minecraft:enderman": "2024-03-03 16:48:18 -0700",
@@ -9402,18 +9403,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
-    "criteria": {
-      "has_dark_prismarine": "2026-09-16 15:40:55 -0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sponge": {
-    "criteria": {
-      "has_wet_sponge": "2026-09-16 15:48:30 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2026-09-16 15:30:05 -0600"
@@ -9426,9 +9415,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+  "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
-      "has_tide_armor_trim_smithing_template": "2026-09-16 15:48:34 -0600"
+      "has_prismarine_crystals": "2026-09-16 15:30:05 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2026-09-16 15:40:55 -0600"
     },
     "done": true
   },
@@ -9444,21 +9439,141 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2026-09-16 15:40:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2026-09-16 15:48:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2026-09-16 15:48:34 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2026-09-16 15:48:34 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
+  "minecraft:end/respawn_dragon": {
     "criteria": {
-      "has_prismarine_crystals": "2026-09-16 15:30:05 -0600"
+      "summoned_dragon": "2026-09-16 18:05:30 -0600"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+  "minecraft:end/dragon_breath": {
     "criteria": {
-      "has_dark_prismarine": "2026-09-16 15:40:55 -0600"
+      "dragon_breath": "2026-09-16 18:06:12 -0600"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2026-09-16 18:16:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2026-09-16 18:16:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2026-09-16 19:04:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2026-09-16 19:04:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2026-09-16 18:56:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2026-09-16 19:04:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2026-09-16 18:56:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2026-09-16 19:04:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2026-09-16 19:04:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2026-09-16 18:50:05 -0600"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2026-09-16 18:58:08 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2026-09-16 18:56:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2026-09-16 18:56:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2026-09-16 19:04:55 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2026-09-16 18:56:22 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2026-09-16 18:53:07 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2026-09-16 18:56:22 -0600"
     },
     "done": true
   },
