@@ -62,7 +62,7 @@ while true do
 		end
 		
 		if turtle.getItemDetail(1) then
-			turtle.turnRight()
+			turtle.turn Right()
 			turtle.turnRight()
 			turtle.drop()
 			turtle.turnRight()
