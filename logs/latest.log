@@ -1,47 +1,47 @@
-[28Sep2026 13:57:45.756] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.neoForgeVersion, 21.1.248, --fml.fmlVersion, 4.0.43, --fml.mcVersion, 1.21.1, --fml.neoFormVersion, 20240808.144430]
-[28Sep2026 13:57:45.765] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Oracle Corporation Java HotSpot(TM) 64-Bit Server VM 21.0.12.1+1-LTS-4
-[28Sep2026 13:57:45.767] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 21.0.12.1 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
-[28Sep2026 13:57:46.362] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[28Sep2026 13:57:46.412] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/X:/NonSteamGamesOnXray/Minecraft/MinecraftCreateServer-Sept2026/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%2373!/ Service=ModLauncher Env=SERVER
-[28Sep2026 13:57:46.854] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "server-1.21.1-20240808.144430-srg.jar" [locator: production server provider +net.neoforged:neoforge:21.1.248:server]
-[28Sep2026 13:57:46.911] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.248-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[libraries\net\neoforged\neoforge\21.1.248\neoforge-21.1.248-universal.jar]], reader: mod manifest]
-[28Sep2026 13:57:46.921] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "allarrowspickup-1.0.0.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
-[28Sep2026 13:57:46.926] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "badpackets-neo-0.8.2.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
-[28Sep2026 13:57:46.933] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cc-tweaked-1.21.1-forge-1.120.2.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
-[28Sep2026 13:57:46.939] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cloth-config-15.0.140-neoforge.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
-[28Sep2026 13:57:46.954] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create-1.21.1-6.0.10.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
-[28Sep2026 13:57:46.959] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create-aeronautics-bundled-1.21.1-1.3.1.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
-[28Sep2026 13:57:46.966] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create_power_loader-2.0.5-mc1.21.1.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
-[28Sep2026 13:57:46.973] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
-[28Sep2026 13:57:46.978] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "gliders-1.21.1-neoforge-1.1.8.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
-[28Sep2026 13:57:46.983] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "inventorysorter-1.21.1-24.0.24.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
-[28Sep2026 13:57:46.989] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jei-1.21.1-neoforge-19.27.0.336.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
-[28Sep2026 13:57:46.994] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "journeymap-neoforge-1.21.1-6.0.5.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
-[28Sep2026 13:57:47.000] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "musketmod-1.21.1-neoforge-1.5.4.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
-[28Sep2026 13:57:47.004] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "paxels-0.1.3-neoforge-1.21.1.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
-[28Sep2026 13:57:47.010] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sable-neoforge-1.21.1-2.0.5.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
-[28Sep2026 13:57:47.016] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "wthit-1.21.1-neo-12.10.2.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
-[28Sep2026 13:57:47.657] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 19 dependencies adding them to mods collection
-[28Sep2026 13:57:47.657] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.5.3.jar" [parent: neoforge-21.1.248-universal.jar, locator: jarinjar, reader: mod manifest]
-[28Sep2026 13:57:47.658] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "jzlib-1.1.3.jar" [parent: cc-tweaked-1.21.1-forge-1.120.2.jar, locator: jarinjar]
-[28Sep2026 13:57:47.658] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "veil-neoforge-1.21.1-4.3.2.jar" [parent: sable-neoforge-1.21.1-2.0.5.jar, locator: jarinjar, reader: mod manifest]
-[28Sep2026 13:57:47.658] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "dev.simulated_team.simulated.simulated-neoforge-1.21.1-1.3.1.jar" [parent: create-aeronautics-bundled-1.21.1-1.3.1.jar, locator: jarinjar, reader: mod manifest]
-[28Sep2026 13:57:47.658] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "dev.ryanhcode.sable.sable-sable_rapier-1.21.1-2.0.5.jar" [parent: sable-neoforge-1.21.1-2.0.5.jar, locator: jarinjar, reader: mod manifest]
-[28Sep2026 13:57:47.658] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "glsl-processor-0.2.3.jar" [parent: veil-neoforge-1.21.1-4.3.2.jar, locator: jarinjar]
-[28Sep2026 13:57:47.658] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ponder-neoforge-1.0.82+mc1.21.1.jar" [parent: create-1.21.1-6.0.10.jar, locator: jarinjar, reader: mod manifest]
-[28Sep2026 13:57:47.658] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "playeranimator-658587-6024462.jar" [parent: gliders-1.21.1-neoforge-1.1.8.jar, locator: jarinjar, reader: mod manifest]
-[28Sep2026 13:57:47.658] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.1.248.jar" [parent: neoforge-21.1.248-universal.jar, locator: jarinjar, reader: mod manifest]
-[28Sep2026 13:57:47.658] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "pngj-2.1.0.jar" [parent: journeymap-neoforge-1.21.1-6.0.5.jar, locator: jarinjar]
-[28Sep2026 13:57:47.659] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "molang-compiler-3.1.1.19.jar" [parent: veil-neoforge-1.21.1-4.3.2.jar, locator: jarinjar]
-[28Sep2026 13:57:47.659] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "dev.eriksonn.aeronautics.aeronautics-neoforge-1.21.1-1.3.1.jar" [parent: create-aeronautics-bundled-1.21.1-1.3.1.jar, locator: jarinjar, reader: mod manifest]
-[28Sep2026 13:57:47.659] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "common-networking-neoforge-1.0.21-1.21.1.jar" [parent: journeymap-neoforge-1.21.1-6.0.5.jar, locator: jarinjar, reader: mod manifest]
-[28Sep2026 13:57:47.659] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "cobalt-0.9.9.jar" [parent: cc-tweaked-1.21.1-forge-1.120.2.jar, locator: jarinjar]
-[28Sep2026 13:57:47.659] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "Registrate-MC1.21-1.3.0+67.jar" [parent: create-1.21.1-6.0.10.jar, locator: jarinjar, reader: mod manifest]
-[28Sep2026 13:57:47.659] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sable-companion-common-1.21.1-1.6.0.jar" [parent: sable-neoforge-1.21.1-2.0.5.jar, locator: jarinjar, reader: mod manifest]
-[28Sep2026 13:57:47.660] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "flywheel-neoforge-1.21.1-1.0.6.jar" [parent: create-1.21.1-6.0.10.jar, locator: jarinjar, reader: mod manifest]
-[28Sep2026 13:57:47.660] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "journeymap-api-neoforge-2.0.0-1.21.1.jar" [parent: journeymap-neoforge-1.21.1-6.0.5.jar, locator: jarinjar, reader: mod manifest]
-[28Sep2026 13:57:47.660] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "dev.ryanhcode.offroad.offroad-neoforge-1.21.1-1.3.1.jar" [parent: create-aeronautics-bundled-1.21.1-1.3.1.jar, locator: jarinjar, reader: mod manifest]
-[28Sep2026 13:57:47.663] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+[28Sep2026 16:24:32.888] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.neoForgeVersion, 21.1.248, --fml.fmlVersion, 4.0.43, --fml.mcVersion, 1.21.1, --fml.neoFormVersion, 20240808.144430]
+[28Sep2026 16:24:32.893] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Oracle Corporation Java HotSpot(TM) 64-Bit Server VM 21.0.12.1+1-LTS-4
+[28Sep2026 16:24:32.894] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 21.0.12.1 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[28Sep2026 16:24:33.107] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[28Sep2026 16:24:33.214] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/X:/NonSteamGamesOnXray/Minecraft/MinecraftCreateServer-Sept2026/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%2373!/ Service=ModLauncher Env=SERVER
+[28Sep2026 16:24:33.558] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "server-1.21.1-20240808.144430-srg.jar" [locator: production server provider +net.neoforged:neoforge:21.1.248:server]
+[28Sep2026 16:24:33.588] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.248-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[libraries\net\neoforged\neoforge\21.1.248\neoforge-21.1.248-universal.jar]], reader: mod manifest]
+[28Sep2026 16:24:33.599] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "allarrowspickup-1.0.0.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
+[28Sep2026 16:24:33.605] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "badpackets-neo-0.8.2.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
+[28Sep2026 16:24:33.613] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cc-tweaked-1.21.1-forge-1.120.2.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
+[28Sep2026 16:24:33.619] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cloth-config-15.0.140-neoforge.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
+[28Sep2026 16:24:33.632] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create-1.21.1-6.0.10.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
+[28Sep2026 16:24:33.638] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create-aeronautics-bundled-1.21.1-1.3.1.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
+[28Sep2026 16:24:33.644] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "create_power_loader-2.0.5-mc1.21.1.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
+[28Sep2026 16:24:33.650] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
+[28Sep2026 16:24:33.656] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "gliders-1.21.1-neoforge-1.1.8.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
+[28Sep2026 16:24:33.659] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "inventorysorter-1.21.1-24.0.24.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
+[28Sep2026 16:24:33.664] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jei-1.21.1-neoforge-19.27.0.336.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
+[28Sep2026 16:24:33.669] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "journeymap-neoforge-1.21.1-6.0.5.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
+[28Sep2026 16:24:33.674] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "musketmod-1.21.1-neoforge-1.5.4.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
+[28Sep2026 16:24:33.679] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "paxels-0.1.3-neoforge-1.21.1.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
+[28Sep2026 16:24:33.684] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sable-neoforge-1.21.1-2.0.5.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
+[28Sep2026 16:24:33.689] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "wthit-1.21.1-neo-12.10.2.jar" [locator: {mods folder locator at X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\mods}, reader: mod manifest]
+[28Sep2026 16:24:34.270] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 19 dependencies adding them to mods collection
+[28Sep2026 16:24:34.270] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.5.3.jar" [parent: neoforge-21.1.248-universal.jar, locator: jarinjar, reader: mod manifest]
+[28Sep2026 16:24:34.270] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "jzlib-1.1.3.jar" [parent: cc-tweaked-1.21.1-forge-1.120.2.jar, locator: jarinjar]
+[28Sep2026 16:24:34.270] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "veil-neoforge-1.21.1-4.3.2.jar" [parent: sable-neoforge-1.21.1-2.0.5.jar, locator: jarinjar, reader: mod manifest]
+[28Sep2026 16:24:34.270] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "dev.simulated_team.simulated.simulated-neoforge-1.21.1-1.3.1.jar" [parent: create-aeronautics-bundled-1.21.1-1.3.1.jar, locator: jarinjar, reader: mod manifest]
+[28Sep2026 16:24:34.270] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "dev.ryanhcode.sable.sable-sable_rapier-1.21.1-2.0.5.jar" [parent: sable-neoforge-1.21.1-2.0.5.jar, locator: jarinjar, reader: mod manifest]
+[28Sep2026 16:24:34.270] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "glsl-processor-0.2.3.jar" [parent: veil-neoforge-1.21.1-4.3.2.jar, locator: jarinjar]
+[28Sep2026 16:24:34.270] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ponder-neoforge-1.0.82+mc1.21.1.jar" [parent: create-1.21.1-6.0.10.jar, locator: jarinjar, reader: mod manifest]
+[28Sep2026 16:24:34.272] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "playeranimator-658587-6024462.jar" [parent: gliders-1.21.1-neoforge-1.1.8.jar, locator: jarinjar, reader: mod manifest]
+[28Sep2026 16:24:34.272] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.1.248.jar" [parent: neoforge-21.1.248-universal.jar, locator: jarinjar, reader: mod manifest]
+[28Sep2026 16:24:34.272] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "pngj-2.1.0.jar" [parent: journeymap-neoforge-1.21.1-6.0.5.jar, locator: jarinjar]
+[28Sep2026 16:24:34.272] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "molang-compiler-3.1.1.19.jar" [parent: veil-neoforge-1.21.1-4.3.2.jar, locator: jarinjar]
+[28Sep2026 16:24:34.272] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "dev.eriksonn.aeronautics.aeronautics-neoforge-1.21.1-1.3.1.jar" [parent: create-aeronautics-bundled-1.21.1-1.3.1.jar, locator: jarinjar, reader: mod manifest]
+[28Sep2026 16:24:34.272] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "common-networking-neoforge-1.0.21-1.21.1.jar" [parent: journeymap-neoforge-1.21.1-6.0.5.jar, locator: jarinjar, reader: mod manifest]
+[28Sep2026 16:24:34.272] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "cobalt-0.9.9.jar" [parent: cc-tweaked-1.21.1-forge-1.120.2.jar, locator: jarinjar]
+[28Sep2026 16:24:34.272] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "Registrate-MC1.21-1.3.0+67.jar" [parent: create-1.21.1-6.0.10.jar, locator: jarinjar, reader: mod manifest]
+[28Sep2026 16:24:34.272] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sable-companion-common-1.21.1-1.6.0.jar" [parent: sable-neoforge-1.21.1-2.0.5.jar, locator: jarinjar, reader: mod manifest]
+[28Sep2026 16:24:34.273] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "flywheel-neoforge-1.21.1-1.0.6.jar" [parent: create-1.21.1-6.0.10.jar, locator: jarinjar, reader: mod manifest]
+[28Sep2026 16:24:34.273] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "journeymap-api-neoforge-2.0.0-1.21.1.jar" [parent: journeymap-neoforge-1.21.1-6.0.5.jar, locator: jarinjar, reader: mod manifest]
+[28Sep2026 16:24:34.273] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "dev.ryanhcode.offroad.offroad-neoforge-1.21.1-1.3.1.jar" [parent: create-aeronautics-bundled-1.21.1-1.3.1.jar, locator: jarinjar, reader: mod manifest]
+[28Sep2026 16:24:34.277] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
      Mod List:
 		Name Version (Mod Id)
 
@@ -73,281 +73,179 @@
 		Simple Inventory Sorter 24.0.24 (inventorysorter)
 		Veil 4.3.2 (veil)
 		wthit 12.10.2 (wthit)
-[28Sep2026 13:57:48.426] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
-[28Sep2026 13:57:48.479] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[28Sep2026 13:57:48.596] [main/WARN] [mixin/]: Reference map 'aeronautics.refmap.json' for aeronautics.mixins.json could not be read. If this is a development environment you can ignore this message
-[28Sep2026 13:57:48.610] [main/WARN] [mixin/]: Reference map 'ponder.refmap.json' for ponder-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[28Sep2026 13:57:48.635] [main/INFO] [dev.ryanhcode.sable.mixin.AbstractSableMixinPlugin/]: Using Vanilla renderer mixins
-[28Sep2026 13:57:48.636] [main/INFO] [dev.ryanhcode.sable.mixin.AbstractSableMixinPlugin/]: Using Vanilla renderer mixins
-[28Sep2026 13:57:48.668] [main/WARN] [mixin/]: Reference map 'simulated.refmap.json' for simulated.mixins.json could not be read. If this is a development environment you can ignore this message
-[28Sep2026 13:57:48.696] [main/WARN] [mixin/]: Reference map 'create_power_loader.refmap.json' for create_power_loader.mixins.json could not be read. If this is a development environment you can ignore this message
-[28Sep2026 13:57:48.697] [main/WARN] [mixin/]: Reference map 'offroad.refmap.json' for offroad.mixins.json could not be read. If this is a development environment you can ignore this message
-[28Sep2026 13:57:49.068] [main/WARN] [mixin/]: Error loading class: net/minecraftforge/common/ForgeTier (java.lang.ClassNotFoundException: net.minecraftforge.common.ForgeTier)
-[28Sep2026 13:57:49.657] [main/WARN] [mixin/]: Error loading class: net/minecraftforge/common/ForgeTier (java.lang.ClassNotFoundException: net.minecraftforge.common.ForgeTier)
-[28Sep2026 13:57:49.659] [main/WARN] [mixin/]: Error loading class: net/minecraftforge/common/ForgeTier (java.lang.ClassNotFoundException: net.minecraftforge.common.ForgeTier)
-[28Sep2026 13:57:49.663] [main/WARN] [mixin/]: Error loading class: org/jetbrains/annotations/ApiStatus$ScheduledForRemoval (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$ScheduledForRemoval)
-[28Sep2026 13:57:50.038] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.3).
-[28Sep2026 13:57:56.543] [modloading-worker-0/INFO] [Veil/]: Veil is initializing.
-[28Sep2026 13:57:56.582] [modloading-worker-0/INFO] [ewewukek.musketmod.MusketMod/]: Configuration has been loaded
-[28Sep2026 13:57:56.596] [modloading-worker-0/INFO] [AllArrowsPickup/]: All Arrows Pickup loaded - arrows shot by any entity will now be pickable.
-[28Sep2026 13:57:56.626] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.1.248, for MC 1.21.1
-[28Sep2026 13:57:56.630] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.10 initializing! Commit hash: ac0c444d9828da3453ae8cc65338e8de063286fb
-[28Sep2026 13:57:58.088] [modloading-worker-0/INFO] [dev.ryanhcode.sable.Sable/]: Sable loaded!
-[28Sep2026 13:58:00.286] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.common.AbstractModInitializer_neoforge/]: Initializing Distant Horizons server, firing DhApiBeforeDhInitEvent event...
-[28Sep2026 13:58:00.293] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.Initializer/]: Running library validation...
-[28Sep2026 13:58:00.416] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.common.AbstractModInitializer_neoforge/]: Distant Horizons, Version: 3.2.0-b
-[28Sep2026 13:58:00.429] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.common.AbstractModInitializer_neoforge/]: Skipping mod compatibility accessor for: [optifine]
-[28Sep2026 13:58:00.429] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.common.AbstractModInitializer_neoforge/]: Skipping mod compatibility accessor for: [c2me]
-[28Sep2026 13:58:00.430] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.common.AbstractModInitializer_neoforge/]: Skipping mod compatibility accessor for: [immersive_portals]
-[28Sep2026 13:58:00.430] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.common.AbstractModInitializer_neoforge/]: Skipping mod compatibility accessor for: [iris]
-[28Sep2026 13:58:00.431] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.common.AbstractModInitializer_neoforge/]: Distant Horizons server Initialized, adding event subscribers...
-[28Sep2026 13:58:00.438] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [create] Starting version check at https://api.modrinth.com/updates/create/forge_updates.json?neoforge=only
-[28Sep2026 13:58:00.507] [modloading-sync-worker/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
-[28Sep2026 13:58:00.516] [modloading-sync-worker/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
-[28Sep2026 13:58:00.533] [modloading-sync-worker/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
-[28Sep2026 13:58:00.533] [modloading-sync-worker/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:neo at mcp.mobius.waila.plugin.neo.NeoCommonPlugin
-[28Sep2026 13:58:00.535] [modloading-sync-worker/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
-[28Sep2026 13:58:00.640] [modloading-sync-worker/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[28Sep2026 13:58:00.793] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[28Sep2026 13:58:00.899] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [create] Found status: OUTDATED Current: 6.0.10 Target: 6.0.10+mc1.21.1
-[28Sep2026 13:58:00.899] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [journeymap] Starting version check at https://neoforge.curseupdate.com/32274/journeymap
-[28Sep2026 13:58:00.976] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 1.21.1-6.0.5 Target: 1.21.1-6.0.0-beta.52
-[28Sep2026 13:58:00.976] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [computercraft] Starting version check at https://api.modrinth.com/updates/cc-tweaked/forge_updates.json
-[28Sep2026 13:58:01.016] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/X:/NonSteamGamesOnXray/Minecraft/MinecraftCreateServer-Sept2026/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23133!/assets/.mcassetsroot' uses unexpected schema
-[28Sep2026 13:58:01.017] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/X:/NonSteamGamesOnXray/Minecraft/MinecraftCreateServer-Sept2026/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23133!/data/.mcassetsroot' uses unexpected schema
-[28Sep2026 13:58:01.045] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [computercraft] Found status: BETA Current: 1.120.2 Target: null
-[28Sep2026 13:58:01.045] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [create_power_loader] Starting version check at https://raw.githubusercontent.com/hlysine/create_power_loader/main/update.json
-[28Sep2026 13:58:01.093] [main/INFO] [com.simibubi.create.Create/]: Created 157 recipes which will be injected into the game
-[28Sep2026 13:58:01.100] [main/INFO] [com.simibubi.create.Create/]: Created 0 tags which will be injected into the game
-[28Sep2026 13:58:01.176] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [create_power_loader] Found status: UP_TO_DATE Current: 2.0.5-mc1.21.1 Target: null
-[28Sep2026 13:58:02.925] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 3045 recipes
-[28Sep2026 13:58:03.207] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2735 advancements
-[28Sep2026 13:58:03.235] [main/INFO] [ewewukek.musketmod.MusketMod/]: Configuration has been loaded
-[28Sep2026 13:58:05.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
-[28Sep2026 13:58:05.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[28Sep2026 13:58:05.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[28Sep2026 13:58:05.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[28Sep2026 13:58:05.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[28Sep2026 13:58:05.384] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Adding UDP server channel future
-[28Sep2026 13:58:05.439] [Netty Server IO #0/INFO] [dev.ryanhcode.sable.Sable/]: Server UDP channel active
-[28Sep2026 13:58:05.440] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
-[28Sep2026 13:58:05.468] [Server thread/INFO] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Found config file override in path .\world\serverconfig\jei-server.toml
-[28Sep2026 13:58:05.475] [Server thread/INFO] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Found config file override in path .\world\serverconfig\inventorysorter-server.toml
-[28Sep2026 13:58:05.489] [Server thread/INFO] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Found config file override in path .\world\serverconfig\journeymap-server.toml
-[28Sep2026 13:58:05.497] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[28Sep2026 13:58:05.507] [Server thread/INFO] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Found config file override in path .\world\serverconfig\computercraft-server.toml
-[28Sep2026 13:58:05.554] [Server thread/INFO] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Found config file override in path .\world\serverconfig\create-server.toml
-[28Sep2026 13:58:05.633] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.config.ConfigHandler/]: Initialising config for [DistantHorizons]
-[28Sep2026 13:58:05.714] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.config.ConfigHandler/]: [DistantHorizons] Config initialised
-[28Sep2026 13:58:05.725] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.config.eventHandlers.IgnoredDimensionCsvHandler/]: Dimension ignoring disabled, DH will render all dimensions.
-[28Sep2026 13:58:05.726] [Server thread/INFO] [com.seibel.distanthorizons.core.logging.DhLogger/]: Applying config to loggers
-[28Sep2026 13:58:05.727] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.Initializer/]: Garbage collectors: [G1 Young Generation, G1 Concurrent GC, G1 Old Generation]
-[28Sep2026 13:58:05.727] [Server thread/WARN] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.Initializer/]: Distant Horizons: G1 Garbage collector detected.
+[28Sep2026 16:24:35.186] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[28Sep2026 16:24:35.230] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[28Sep2026 16:24:35.318] [main/WARN] [mixin/]: Reference map 'aeronautics.refmap.json' for aeronautics.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Sep2026 16:24:35.328] [main/WARN] [mixin/]: Reference map 'ponder.refmap.json' for ponder-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Sep2026 16:24:35.342] [main/INFO] [dev.ryanhcode.sable.mixin.AbstractSableMixinPlugin/]: Using Vanilla renderer mixins
+[28Sep2026 16:24:35.343] [main/INFO] [dev.ryanhcode.sable.mixin.AbstractSableMixinPlugin/]: Using Vanilla renderer mixins
+[28Sep2026 16:24:35.376] [main/WARN] [mixin/]: Reference map 'simulated.refmap.json' for simulated.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Sep2026 16:24:35.397] [main/WARN] [mixin/]: Reference map 'create_power_loader.refmap.json' for create_power_loader.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Sep2026 16:24:35.398] [main/WARN] [mixin/]: Reference map 'offroad.refmap.json' for offroad.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Sep2026 16:24:35.733] [main/WARN] [mixin/]: Error loading class: net/minecraftforge/common/ForgeTier (java.lang.ClassNotFoundException: net.minecraftforge.common.ForgeTier)
+[28Sep2026 16:24:36.266] [main/WARN] [mixin/]: Error loading class: net/minecraftforge/common/ForgeTier (java.lang.ClassNotFoundException: net.minecraftforge.common.ForgeTier)
+[28Sep2026 16:24:36.268] [main/WARN] [mixin/]: Error loading class: net/minecraftforge/common/ForgeTier (java.lang.ClassNotFoundException: net.minecraftforge.common.ForgeTier)
+[28Sep2026 16:24:36.271] [main/WARN] [mixin/]: Error loading class: org/jetbrains/annotations/ApiStatus$ScheduledForRemoval (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$ScheduledForRemoval)
+[28Sep2026 16:24:36.623] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.3).
+[28Sep2026 16:24:43.677] [modloading-worker-0/INFO] [Veil/]: Veil is initializing.
+[28Sep2026 16:24:43.725] [modloading-worker-0/INFO] [ewewukek.musketmod.MusketMod/]: Configuration has been loaded
+[28Sep2026 16:24:43.776] [modloading-worker-0/INFO] [AllArrowsPickup/]: All Arrows Pickup loaded - arrows shot by any entity will now be pickable.
+[28Sep2026 16:24:43.800] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.1.248, for MC 1.21.1
+[28Sep2026 16:24:43.810] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.10 initializing! Commit hash: ac0c444d9828da3453ae8cc65338e8de063286fb
+[28Sep2026 16:24:45.399] [modloading-worker-0/INFO] [dev.ryanhcode.sable.Sable/]: Sable loaded!
+[28Sep2026 16:24:47.808] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.common.AbstractModInitializer_neoforge/]: Initializing Distant Horizons server, firing DhApiBeforeDhInitEvent event...
+[28Sep2026 16:24:47.817] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.Initializer/]: Running library validation...
+[28Sep2026 16:24:47.968] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [create] Starting version check at https://api.modrinth.com/updates/create/forge_updates.json?neoforge=only
+[28Sep2026 16:24:47.995] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.common.AbstractModInitializer_neoforge/]: Distant Horizons, Version: 3.2.0-b
+[28Sep2026 16:24:48.008] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.common.AbstractModInitializer_neoforge/]: Skipping mod compatibility accessor for: [optifine]
+[28Sep2026 16:24:48.009] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.common.AbstractModInitializer_neoforge/]: Skipping mod compatibility accessor for: [c2me]
+[28Sep2026 16:24:48.010] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.common.AbstractModInitializer_neoforge/]: Skipping mod compatibility accessor for: [immersive_portals]
+[28Sep2026 16:24:48.011] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.common.AbstractModInitializer_neoforge/]: Skipping mod compatibility accessor for: [iris]
+[28Sep2026 16:24:48.011] [modloading-worker-0/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.common.AbstractModInitializer_neoforge/]: Distant Horizons server Initialized, adding event subscribers...
+[28Sep2026 16:24:48.079] [modloading-sync-worker/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[28Sep2026 16:24:48.093] [modloading-sync-worker/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[28Sep2026 16:24:48.106] [modloading-sync-worker/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[28Sep2026 16:24:48.107] [modloading-sync-worker/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:neo at mcp.mobius.waila.plugin.neo.NeoCommonPlugin
+[28Sep2026 16:24:48.108] [modloading-sync-worker/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[28Sep2026 16:24:48.151] [modloading-sync-worker/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[28Sep2026 16:24:48.294] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[28Sep2026 16:24:48.318] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [create] Found status: OUTDATED Current: 6.0.10 Target: 6.0.10+mc1.21.1
+[28Sep2026 16:24:48.319] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [journeymap] Starting version check at https://neoforge.curseupdate.com/32274/journeymap
+[28Sep2026 16:24:48.390] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [journeymap] Found status: BETA Current: 1.21.1-6.0.5 Target: 1.21.1-6.0.0-beta.52
+[28Sep2026 16:24:48.390] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [computercraft] Starting version check at https://api.modrinth.com/updates/cc-tweaked/forge_updates.json
+[28Sep2026 16:24:48.448] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/X:/NonSteamGamesOnXray/Minecraft/MinecraftCreateServer-Sept2026/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23133!/assets/.mcassetsroot' uses unexpected schema
+[28Sep2026 16:24:48.448] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/X:/NonSteamGamesOnXray/Minecraft/MinecraftCreateServer-Sept2026/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23133!/data/.mcassetsroot' uses unexpected schema
+[28Sep2026 16:24:48.473] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [computercraft] Found status: BETA Current: 1.120.2 Target: null
+[28Sep2026 16:24:48.473] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [create_power_loader] Starting version check at https://raw.githubusercontent.com/hlysine/create_power_loader/main/update.json
+[28Sep2026 16:24:48.504] [main/INFO] [com.simibubi.create.Create/]: Created 157 recipes which will be injected into the game
+[28Sep2026 16:24:48.510] [main/INFO] [com.simibubi.create.Create/]: Created 0 tags which will be injected into the game
+[28Sep2026 16:24:48.522] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [create_power_loader] Found status: UP_TO_DATE Current: 2.0.5-mc1.21.1 Target: null
+[28Sep2026 16:24:50.160] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 3045 recipes
+[28Sep2026 16:24:50.451] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2735 advancements
+[28Sep2026 16:24:50.473] [main/INFO] [ewewukek.musketmod.MusketMod/]: Configuration has been loaded
+[28Sep2026 16:24:52.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[28Sep2026 16:24:52.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[28Sep2026 16:24:52.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[28Sep2026 16:24:52.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[28Sep2026 16:24:52.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[28Sep2026 16:24:52.499] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Adding UDP server channel future
+[28Sep2026 16:24:52.540] [Netty Server IO #0/INFO] [dev.ryanhcode.sable.Sable/]: Server UDP channel active
+[28Sep2026 16:24:52.541] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[28Sep2026 16:24:52.570] [Server thread/INFO] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Found config file override in path .\world\serverconfig\jei-server.toml
+[28Sep2026 16:24:52.571] [Server thread/INFO] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Found config file override in path .\world\serverconfig\inventorysorter-server.toml
+[28Sep2026 16:24:52.574] [Server thread/INFO] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Found config file override in path .\world\serverconfig\journeymap-server.toml
+[28Sep2026 16:24:52.576] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[28Sep2026 16:24:52.580] [Server thread/INFO] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Found config file override in path .\world\serverconfig\computercraft-server.toml
+[28Sep2026 16:24:52.602] [Server thread/INFO] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Found config file override in path .\world\serverconfig\create-server.toml
+[28Sep2026 16:24:52.664] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.config.ConfigHandler/]: Initialising config for [DistantHorizons]
+[28Sep2026 16:24:52.751] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.config.ConfigHandler/]: [DistantHorizons] Config initialised
+[28Sep2026 16:24:52.765] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.config.eventHandlers.IgnoredDimensionCsvHandler/]: Dimension ignoring disabled, DH will render all dimensions.
+[28Sep2026 16:24:52.765] [Server thread/INFO] [com.seibel.distanthorizons.core.logging.DhLogger/]: Applying config to loggers
+[28Sep2026 16:24:52.767] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.Initializer/]: Garbage collectors: [G1 Young Generation, G1 Concurrent GC, G1 Old Generation]
+[28Sep2026 16:24:52.767] [Server thread/WARN] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.Initializer/]: Distant Horizons: G1 Garbage collector detected.
 This can cause FPS stuttering. 
 It's recommended to use a concurrent garbage collector 
 like ZGC (Java 21+) or Shenandoah (Java 8 through 17) 
 for a smoother experience. 
 This warning can be disabled in the DH config.
-[28Sep2026 13:58:05.737] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.Initializer/]: Explicit Garbage Collection: [Enabled]
-[28Sep2026 13:58:05.738] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.common.AbstractModInitializer_neoforge/]: Running Delayed setup...
-[28Sep2026 13:58:05.738] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.common.AbstractModInitializer_neoforge/]: Delayed setup complete, firing DhApiAfterDhInitEvent event...
-[28Sep2026 13:58:05.756] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.jar.updater.SelfUpdater/]: Checking for Distant Horizons [STABLE] update for MC [1.21.1]...
-[28Sep2026 13:58:06.114] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.jar.updater.SelfUpdater/]: New version (3.3.2) of Distant Horizons is available
-[28Sep2026 13:58:06.114] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.jar.updater.SelfUpdater/]: Download link: https://cdn.modrinth.com/data/uCdwusMi/versions/Ez3cx7Yd/DistantHorizons-3.3.2-1.21.1-fabric-neoforge.jar
-[28Sep2026 13:58:06.114] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.common.AbstractModInitializer_neoforge/]: Distant Horizons server Initialized at 
-[28Sep2026 13:58:06.118] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.world.AbstractDhWorld/]: Started [DhServerWorld] of type [SERVER_ONLY].
-[28Sep2026 13:58:06.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[28Sep2026 13:58:06.181] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Creating physics pipeline for ResourceKey[minecraft:dimension / minecraft:overworld] using RapierPhysicsPipelineProvider
-[28Sep2026 13:58:06.194] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Using game directory relative Sable Rapier native directory X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\.sable\natives
-[28Sep2026 13:58:06.797] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.level.AbstractDhServerLevel/]: Started DhServerLevel for [Wrapped{ServerLevel[Create2024]@minecraft:overworld}] at [[LocalSaveStructure@(.\world\data)]].
-[28Sep2026 13:58:06.800] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Creating physics pipeline for ResourceKey[minecraft:dimension / minecraft:the_end] using RapierPhysicsPipelineProvider
-[28Sep2026 13:58:06.825] [DH-Full Data Migration Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.V2.DataMigratorV1/]: No migration necessary.
-[28Sep2026 13:58:06.991] [DH-Full Data Migration Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.V2.DataMigratorV1/]: No migration necessary.
-[28Sep2026 13:58:06.998] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.level.AbstractDhServerLevel/]: Started DhServerLevel for [Wrapped{ServerLevel[Create2024]@minecraft:the_end}] at [[LocalSaveStructure@(.\world\data;.\world\DIM1\data)]].
-[28Sep2026 13:58:06.998] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Creating physics pipeline for ResourceKey[minecraft:dimension / minecraft:the_nether] using RapierPhysicsPipelineProvider
-[28Sep2026 13:58:07.039] [DH-Full Data Migration Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.V2.DataMigratorV1/]: No migration necessary.
-[28Sep2026 13:58:07.043] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.level.AbstractDhServerLevel/]: Started DhServerLevel for [Wrapped{ServerLevel[Create2024]@minecraft:the_nether}] at [[LocalSaveStructure@(.\world\data;.\world\DIM1\data;.\world\DIM-1\data)]].
-[28Sep2026 13:58:07.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[28Sep2026 13:58:07.374] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.BatchGenerator/]: Batch Chunk Generator initialized
-[28Sep2026 13:58:07.388] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Creating world gen queue
-[28Sep2026 13:58:07.388] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Created world gen queue
-[28Sep2026 13:58:07.388] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.GeneratedFullDataSourceProvider/]: Set world gen queue for level [minecraft:overworld].
-[28Sep2026 13:58:07.409] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[28Sep2026 13:58:07.516] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.BatchGenerator/]: Batch Chunk Generator initialized
-[28Sep2026 13:58:07.517] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Creating world gen queue
-[28Sep2026 13:58:07.517] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Created world gen queue
-[28Sep2026 13:58:07.517] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.GeneratedFullDataSourceProvider/]: Set world gen queue for level [minecraft:the_end].
-[28Sep2026 13:58:07.562] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.BatchGenerator/]: Batch Chunk Generator initialized
-[28Sep2026 13:58:07.563] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Creating world gen queue
-[28Sep2026 13:58:07.563] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Created world gen queue
-[28Sep2026 13:58:07.563] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.GeneratedFullDataSourceProvider/]: Set world gen queue for level [minecraft:the_nether].
-[28Sep2026 13:58:08.291] [Worker-Main-10/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[28Sep2026 13:58:08.292] [Worker-Main-10/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[28Sep2026 13:58:08.321] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1273 ms
-[28Sep2026 13:58:08.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.854s)! For help, type "help"
-[28Sep2026 13:58:08.393] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
-[28Sep2026 13:58:08.410] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[28Sep2026 13:58:08.414] [Server thread/INFO] [journeymap/]: Loaded null for service interface journeymap.api.services.WebMapService
-[28Sep2026 13:58:08.415] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeClientHooks@d6db5cc for service interface journeymap.api.services.ClientPlatformService
-[28Sep2026 13:58:08.418] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeHooks@1a376eb1 for service interface journeymap.api.services.CommonPlatformService
-[28Sep2026 13:58:08.440] [Server thread/INFO] [journeymap/]: Found @JourneyMapPlugin: journeymap.api.plugins.LoadedChunkOverlayPlugin
-[28Sep2026 13:58:08.479] [Server thread/INFO] [journeymap/]: Initialized IJourneyMapPlugin as:journeymap.api.plugins.LoadedChunkOverlayPlugin: for:journeymap_chunk_overlay
-[28Sep2026 13:58:09.327] [Server thread/INFO] [com.simibubi.create.Create/]: RecipeTrie of depth 3 with 109 nodes built with 117 variants, 107 ingredients, and 105 recipes
-[28Sep2026 13:58:09.603] [Server thread/INFO] [com.simibubi.create.Create/]: RecipeTrie of depth 8 with 598 nodes built with 494 variants, 335 ingredients, and 469 recipes
-[28Sep2026 13:58:40.868] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player MainBlaine is 364d3aaa-fb1e-4fda-b9e6-cddafe37ea26
-[28Sep2026 13:58:42.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MainBlaine[/127.0.0.1:1255] logged in with entity id 886 at (-189.40722829940464, 69.0, 0.24112284143102478)
-[28Sep2026 13:58:42.836] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Beginning attempted authentication with player MainBlaine
-[28Sep2026 13:58:42.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MainBlaine joined the game
-[28Sep2026 13:58:43.108] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.api.internal.ServerApi/]: Player [MainBlaine] joined.
-[28Sep2026 13:58:43.308] [Netty Server IO #0/INFO] [dev.ryanhcode.sable.Sable/]: UDP authentication complete with /127.0.0.1:1255, UDP routing to /127.0.0.1:60485
-[28Sep2026 13:58:51.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[28Sep2026 14:03:10.758] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:overworld
-[28Sep2026 14:03:10.877] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:the_end
-[28Sep2026 14:03:10.879] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:the_nether
-[28Sep2026 14:06:14.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=65, z=-36} BlockPos{x=-162, y=65, z=-36}
-[28Sep2026 14:08:10.723] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:overworld
-[28Sep2026 14:08:10.767] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:the_end
-[28Sep2026 14:08:10.767] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:the_nether
-[28Sep2026 14:10:01.004] [Netty Server IO #7/ERROR] [net.minecraft.network.PacketEncoder/]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:47) ~[server-1.21.1-20240808.144430-srg.jar%23133!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.codec.IdDispatchCodec.encode(IdDispatchCodec.java:14) ~[server-1.21.1-20240808.144430-srg.jar%23133!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:24) ~[server-1.21.1-20240808.144430-srg.jar%23133!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:12) ~[server-1.21.1-20240808.144430-srg.jar%23133!/:?]
-	at MC-BOOTSTRAP/io.netty.codec@4.1.97.Final/io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.97.Final.jar%23102!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.Connection$2.write(Connection.java:528) ~[server-1.21.1-20240808.144430-srg.jar%23133!/:?]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.Connection.doSendPacket(Connection.java:364) ~[server-1.21.1-20240808.144430-srg.jar%23133!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.Connection.sendPacket(Connection.java:357) ~[server-1.21.1-20240808.144430-srg.jar%23133!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.Connection.send(Connection.java:339) ~[server-1.21.1-20240808.144430-srg.jar%23133!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.Connection.send(Connection.java:333) ~[server-1.21.1-20240808.144430-srg.jar%23133!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.network.Connection.exceptionCaught(Connection.java:168) ~[server-1.21.1-20240808.144430-srg.jar%23133!/:?]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1377) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:907) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:125) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:177) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.transport@4.1.97.Final/io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.97.Final.jar%23106!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar%23103!/:4.1.97.Final]
-	at MC-BOOTSTRAP/io.netty.common@4.1.97.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar%23103!/:4.1.97.Final]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[28Sep2026 14:13:10.711] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:overworld
-[28Sep2026 14:13:10.752] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:the_end
-[28Sep2026 14:13:10.752] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:the_nether
-[28Sep2026 14:18:10.702] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:overworld
-[28Sep2026 14:18:10.747] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:the_end
-[28Sep2026 14:18:10.747] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:the_nether
-[28Sep2026 14:18:59.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Set own game mode to Creative Mode]
-[28Sep2026 14:19:01.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Set own game mode to Survival Mode]
-[28Sep2026 14:19:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Set own game mode to Spectator Mode]
-[28Sep2026 14:19:05.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Set own game mode to Survival Mode]
-[28Sep2026 14:23:10.712] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:overworld
-[28Sep2026 14:23:10.750] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:the_end
-[28Sep2026 14:23:10.751] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:the_nether
-[28Sep2026 14:28:10.717] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:overworld
-[28Sep2026 14:28:10.757] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:the_end
-[28Sep2026 14:28:10.757] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:the_nether
-[28Sep2026 14:28:25.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MainBlaine has made the advancement [Bee Our Guest]
-[28Sep2026 14:30:40.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: The game is frozen]
-[28Sep2026 14:30:56.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Stepping 1 tick(s)]
-[28Sep2026 14:31:01.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Stepping 1 tick(s)]
-[28Sep2026 14:31:09.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Stepping 1 tick(s)]
-[28Sep2026 14:31:13.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Stepping 1 tick(s)]
-[28Sep2026 14:31:56.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Stepping 1 tick(s)]
-[28Sep2026 14:32:01.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Stepping 1 tick(s)]
-[28Sep2026 14:32:02.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Stepping 1 tick(s)]
-[28Sep2026 14:32:04.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Stepping 1 tick(s)]
-[28Sep2026 14:32:05.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Stepping 1 tick(s)]
-[28Sep2026 14:32:09.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Stepping 20 tick(s)]
-[28Sep2026 14:32:36.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Set the target tick rate to 1.0 per second]
-[28Sep2026 14:32:41.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: The game is running normally]
-[28Sep2026 14:32:53.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Set the target tick rate to 20.0 per second]
-[28Sep2026 14:33:08.809] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:overworld
-[28Sep2026 14:33:08.847] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:the_end
-[28Sep2026 14:33:08.847] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:the_nether
-[28Sep2026 14:34:05.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: The game is frozen]
-[28Sep2026 14:34:08.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: The game is running normally]
-[28Sep2026 14:34:12.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: The game is running normally]
-[28Sep2026 14:34:14.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: The game is frozen]
-[28Sep2026 14:34:17.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: The game is running normally]
-[28Sep2026 14:34:20.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Set the weather to clear]
-[28Sep2026 14:34:35.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: The game is frozen]
-[28Sep2026 14:34:42.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Set the target tick rate to 1.0 per second]
-[28Sep2026 14:34:45.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: The game is running normally]
-[28Sep2026 14:34:54.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: The game is frozen]
-[28Sep2026 14:34:59.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: The game is running normally]
-[28Sep2026 14:35:16.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: The game is frozen]
-[28Sep2026 14:35:20.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-170, y=64, z=-36} BlockPos{x=-168, y=64, z=-35}
-[28Sep2026 14:35:26.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Set the target tick rate to 20.0 per second]
-[28Sep2026 14:35:28.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: The game is running normally]
-[28Sep2026 14:35:40.670] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:overworld
-[28Sep2026 14:35:40.715] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:the_end
-[28Sep2026 14:35:40.715] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:the_nether
-[28Sep2026 14:36:19.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Set the target tick rate to 5.0 per second]
-[28Sep2026 14:37:28.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MainBlaine: Set the target tick rate to 20.0 per second]
-[28Sep2026 14:37:44.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MainBlaine lost connection: Disconnected
-[28Sep2026 14:37:44.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MainBlaine left the game
-[28Sep2026 14:37:44.948] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.api.internal.ServerApi/]: Player [MainBlaine] disconnected.
-[28Sep2026 14:37:50.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[28Sep2026 14:37:50.422] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Closing world gen queue
-[28Sep2026 14:37:50.422] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Closing world gen queue
-[28Sep2026 14:37:50.422] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Closing world gen queue
-[28Sep2026 14:37:50.423] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Closing WorldGenerationQueue...
-[28Sep2026 14:37:50.423] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Closing WorldGenerationQueue...
-[28Sep2026 14:37:50.423] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Closing WorldGenerationQueue...
-[28Sep2026 14:37:50.423] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Shutting down world generator thread pool...
-[28Sep2026 14:37:50.424] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Shutting down world generator thread pool...
-[28Sep2026 14:37:50.424] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Shutting down world generator thread pool...
-[28Sep2026 14:37:50.424] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: World generator thread pool shutdown with [0] incomplete tasks.
-[28Sep2026 14:37:50.424] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: World generator thread pool shutdown with [0] incomplete tasks.
-[28Sep2026 14:37:50.424] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: World generator thread pool shutdown with [0] incomplete tasks.
-[28Sep2026 14:37:50.424] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.BatchGenerator/]: [BatchGenerator] shutting down...
-[28Sep2026 14:37:50.424] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.BatchGenerator/]: [BatchGenerator] shutting down...
-[28Sep2026 14:37:50.424] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.BatchGenerator/]: [BatchGenerator] shutting down...
-[28Sep2026 14:37:50.424] [level shutdown/INFO] [DistantHorizons-LOD World Gen/]: Closing [BatchGenerationEnvironment_neoforge]
-[28Sep2026 14:37:50.424] [level shutdown/INFO] [DistantHorizons-LOD World Gen/]: Closing [BatchGenerationEnvironment_neoforge]
-[28Sep2026 14:37:50.424] [level shutdown/INFO] [DistantHorizons-LOD World Gen/]: Closing [BatchGenerationEnvironment_neoforge]
-[28Sep2026 14:37:50.424] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Finished closing WorldGenerationQueue
-[28Sep2026 14:37:50.424] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Finished closing WorldGenerationQueue
-[28Sep2026 14:37:50.424] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Finished closing WorldGenerationQueue
-[28Sep2026 14:37:50.425] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.level.AbstractDhServerLevel/]: Closed DHLevel for [Wrapped{ServerLevel[Create2024]@minecraft:the_end}].
-[28Sep2026 14:37:50.425] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.level.AbstractDhServerLevel/]: Closed DHLevel for [Wrapped{ServerLevel[Create2024]@minecraft:the_nether}].
-[28Sep2026 14:37:50.425] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.level.AbstractDhServerLevel/]: Closed DHLevel for [Wrapped{ServerLevel[Create2024]@minecraft:overworld}].
-[28Sep2026 14:37:50.425] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.world.AbstractDhWorld/]: Closed DhWorld of type [SERVER_ONLY].
-[28Sep2026 14:37:50.425] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.world.AbstractDhWorld/]: Closed DhWorld of type [SERVER_ONLY].
-[28Sep2026 14:37:50.425] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.util.threading.PriorityTaskPicker/]: Shutting down PriorityTaskPicker thread pool...
-[28Sep2026 14:37:50.429] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.repo.AbstractDhRepo/]: Closing all [3] database connections...
-[28Sep2026 14:37:50.429] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.repo.AbstractDhRepo/]: Closing database connection: [jdbc:dh_sqlite:.\world\DIM1\data\DistantHorizons.sqlite]
-[28Sep2026 14:37:50.430] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.repo.AbstractDhRepo/]: Closing database connection: [jdbc:dh_sqlite:.\world\data\DistantHorizons.sqlite]
-[28Sep2026 14:37:50.446] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.repo.AbstractDhRepo/]: Closing database connection: [jdbc:dh_sqlite:.\world\DIM-1\data\DistantHorizons.sqlite]
-[28Sep2026 14:37:50.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[28Sep2026 14:37:50.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[28Sep2026 14:37:50.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[28Sep2026 14:37:50.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Create2024]'/minecraft:overworld
-[28Sep2026 14:37:50.661] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:overworld
-[28Sep2026 14:37:50.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Create2024]'/minecraft:the_end
-[28Sep2026 14:37:50.754] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:the_end
-[28Sep2026 14:37:50.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Create2024]'/minecraft:the_nether
-[28Sep2026 14:37:50.769] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:the_nether
-[28Sep2026 14:37:50.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[28Sep2026 14:37:50.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[28Sep2026 14:37:50.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[28Sep2026 14:37:50.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Sep2026 16:24:52.776] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.Initializer/]: Explicit Garbage Collection: [Enabled]
+[28Sep2026 16:24:52.776] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.common.AbstractModInitializer_neoforge/]: Running Delayed setup...
+[28Sep2026 16:24:52.777] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.common.AbstractModInitializer_neoforge/]: Delayed setup complete, firing DhApiAfterDhInitEvent event...
+[28Sep2026 16:24:52.797] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.jar.updater.SelfUpdater/]: Checking for Distant Horizons [STABLE] update for MC [1.21.1]...
+[28Sep2026 16:24:53.086] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.jar.updater.SelfUpdater/]: New version (3.3.2) of Distant Horizons is available
+[28Sep2026 16:24:53.086] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.jar.updater.SelfUpdater/]: Download link: https://cdn.modrinth.com/data/uCdwusMi/versions/Ez3cx7Yd/DistantHorizons-3.3.2-1.21.1-fabric-neoforge.jar
+[28Sep2026 16:24:53.086] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.common.AbstractModInitializer_neoforge/]: Distant Horizons server Initialized at 
+[28Sep2026 16:24:53.092] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.world.AbstractDhWorld/]: Started [DhServerWorld] of type [SERVER_ONLY].
+[28Sep2026 16:24:53.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[28Sep2026 16:24:53.145] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Creating physics pipeline for ResourceKey[minecraft:dimension / minecraft:overworld] using RapierPhysicsPipelineProvider
+[28Sep2026 16:24:53.158] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Using game directory relative Sable Rapier native directory X:\NonSteamGamesOnXray\Minecraft\MinecraftCreateServer-Sept2026\.sable\natives
+[28Sep2026 16:24:54.130] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.level.AbstractDhServerLevel/]: Started DhServerLevel for [Wrapped{ServerLevel[Create2024]@minecraft:overworld}] at [[LocalSaveStructure@(.\world\data)]].
+[28Sep2026 16:24:54.140] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Creating physics pipeline for ResourceKey[minecraft:dimension / minecraft:the_nether] using RapierPhysicsPipelineProvider
+[28Sep2026 16:24:54.150] [DH-Full Data Migration Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.V2.DataMigratorV1/]: No migration necessary.
+[28Sep2026 16:24:54.216] [DH-Full Data Migration Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.V2.DataMigratorV1/]: No migration necessary.
+[28Sep2026 16:24:54.221] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.level.AbstractDhServerLevel/]: Started DhServerLevel for [Wrapped{ServerLevel[Create2024]@minecraft:the_nether}] at [[LocalSaveStructure@(.\world\DIM-1\data;.\world\data)]].
+[28Sep2026 16:24:54.221] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Creating physics pipeline for ResourceKey[minecraft:dimension / minecraft:the_end] using RapierPhysicsPipelineProvider
+[28Sep2026 16:24:54.257] [DH-Full Data Migration Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.V2.DataMigratorV1/]: No migration necessary.
+[28Sep2026 16:24:54.263] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.level.AbstractDhServerLevel/]: Started DhServerLevel for [Wrapped{ServerLevel[Create2024]@minecraft:the_end}] at [[LocalSaveStructure@(.\world\DIM-1\data;.\world\DIM1\data;.\world\data)]].
+[28Sep2026 16:24:54.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[28Sep2026 16:24:54.551] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Sep2026 16:24:54.690] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.BatchGenerator/]: Batch Chunk Generator initialized
+[28Sep2026 16:24:54.702] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Creating world gen queue
+[28Sep2026 16:24:54.703] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Created world gen queue
+[28Sep2026 16:24:54.703] [DH-Request Module Ticker [minecraft:overworld] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.GeneratedFullDataSourceProvider/]: Set world gen queue for level [minecraft:overworld].
+[28Sep2026 16:24:54.737] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.BatchGenerator/]: Batch Chunk Generator initialized
+[28Sep2026 16:24:54.738] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Creating world gen queue
+[28Sep2026 16:24:54.738] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Created world gen queue
+[28Sep2026 16:24:54.738] [DH-Request Module Ticker [minecraft:the_nether] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.GeneratedFullDataSourceProvider/]: Set world gen queue for level [minecraft:the_nether].
+[28Sep2026 16:24:54.791] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.BatchGenerator/]: Batch Chunk Generator initialized
+[28Sep2026 16:24:54.791] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Creating world gen queue
+[28Sep2026 16:24:54.792] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Created world gen queue
+[28Sep2026 16:24:54.792] [DH-Request Module Ticker [minecraft:the_end] Thread[0]/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.file.fullDatafile.GeneratedFullDataSourceProvider/]: Set world gen queue for level [minecraft:the_end].
+[28Sep2026 16:24:55.296] [Worker-Main-17/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[28Sep2026 16:24:55.297] [Worker-Main-17/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[28Sep2026 16:24:55.451] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1185 ms
+[28Sep2026 16:24:55.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.882s)! For help, type "help"
+[28Sep2026 16:24:55.517] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[28Sep2026 16:24:55.534] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[28Sep2026 16:24:55.539] [Server thread/INFO] [journeymap/]: Loaded null for service interface journeymap.api.services.WebMapService
+[28Sep2026 16:24:55.541] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeClientHooks@131d2975 for service interface journeymap.api.services.ClientPlatformService
+[28Sep2026 16:24:55.544] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeHooks@463825e1 for service interface journeymap.api.services.CommonPlatformService
+[28Sep2026 16:24:55.570] [Server thread/INFO] [journeymap/]: Found @JourneyMapPlugin: journeymap.api.plugins.LoadedChunkOverlayPlugin
+[28Sep2026 16:24:55.613] [Server thread/INFO] [journeymap/]: Initialized IJourneyMapPlugin as:journeymap.api.plugins.LoadedChunkOverlayPlugin: for:journeymap_chunk_overlay
+[28Sep2026 16:24:56.436] [Server thread/INFO] [com.simibubi.create.Create/]: RecipeTrie of depth 3 with 109 nodes built with 117 variants, 107 ingredients, and 105 recipes
+[28Sep2026 16:24:56.809] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player MainBlaine is 364d3aaa-fb1e-4fda-b9e6-cddafe37ea26
+[28Sep2026 16:24:56.813] [Server thread/INFO] [com.simibubi.create.Create/]: RecipeTrie of depth 8 with 602 nodes built with 494 variants, 335 ingredients, and 469 recipes
+[28Sep2026 16:24:59.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MainBlaine[/127.0.0.1:8930] logged in with entity id 550 at (-164.9425665726538, 63.0, -33.589448152875434)
+[28Sep2026 16:24:59.713] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Beginning attempted authentication with player MainBlaine
+[28Sep2026 16:24:59.782] [Netty Server IO #0/INFO] [dev.ryanhcode.sable.Sable/]: UDP authentication complete with /127.0.0.1:8930, UDP routing to /127.0.0.1:59877
+[28Sep2026 16:24:59.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MainBlaine joined the game
+[28Sep2026 16:25:00.089] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.api.internal.ServerApi/]: Player [MainBlaine] joined.
+[28Sep2026 16:25:01.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[28Sep2026 16:25:24.077] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MainBlaine lost connection: Disconnected
+[28Sep2026 16:25:24.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MainBlaine left the game
+[28Sep2026 16:25:24.080] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.api.internal.ServerApi/]: Player [MainBlaine] disconnected.
+[28Sep2026 16:25:29.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[28Sep2026 16:25:29.312] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Closing world gen queue
+[28Sep2026 16:25:29.313] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Closing world gen queue
+[28Sep2026 16:25:29.312] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Closing world gen queue
+[28Sep2026 16:25:29.314] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Closing WorldGenerationQueue...
+[28Sep2026 16:25:29.314] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Closing WorldGenerationQueue...
+[28Sep2026 16:25:29.315] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Closing WorldGenerationQueue...
+[28Sep2026 16:25:29.315] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Shutting down world generator thread pool...
+[28Sep2026 16:25:29.315] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Shutting down world generator thread pool...
+[28Sep2026 16:25:29.315] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Shutting down world generator thread pool...
+[28Sep2026 16:25:29.315] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: World generator thread pool shutdown with [0] incomplete tasks.
+[28Sep2026 16:25:29.315] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: World generator thread pool shutdown with [0] incomplete tasks.
+[28Sep2026 16:25:29.315] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: World generator thread pool shutdown with [0] incomplete tasks.
+[28Sep2026 16:25:29.315] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.BatchGenerator/]: [BatchGenerator] shutting down...
+[28Sep2026 16:25:29.315] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.BatchGenerator/]: [BatchGenerator] shutting down...
+[28Sep2026 16:25:29.315] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.BatchGenerator/]: [BatchGenerator] shutting down...
+[28Sep2026 16:25:29.316] [level shutdown/INFO] [DistantHorizons-LOD World Gen/]: Closing [BatchGenerationEnvironment_neoforge]
+[28Sep2026 16:25:29.316] [level shutdown/INFO] [DistantHorizons-LOD World Gen/]: Closing [BatchGenerationEnvironment_neoforge]
+[28Sep2026 16:25:29.316] [level shutdown/INFO] [DistantHorizons-LOD World Gen/]: Closing [BatchGenerationEnvironment_neoforge]
+[28Sep2026 16:25:29.316] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Finished closing WorldGenerationQueue
+[28Sep2026 16:25:29.316] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Finished closing WorldGenerationQueue
+[28Sep2026 16:25:29.316] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.generation.queues.WorldGenerationQueue/]: Finished closing WorldGenerationQueue
+[28Sep2026 16:25:29.316] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.level.AbstractDhServerLevel/]: Closed DHLevel for [Wrapped{ServerLevel[Create2024]@minecraft:the_end}].
+[28Sep2026 16:25:29.316] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.level.AbstractDhServerLevel/]: Closed DHLevel for [Wrapped{ServerLevel[Create2024]@minecraft:overworld}].
+[28Sep2026 16:25:29.316] [level shutdown/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.level.AbstractDhServerLevel/]: Closed DHLevel for [Wrapped{ServerLevel[Create2024]@minecraft:the_nether}].
+[28Sep2026 16:25:29.316] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.world.AbstractDhWorld/]: Closed DhWorld of type [SERVER_ONLY].
+[28Sep2026 16:25:29.317] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.world.AbstractDhWorld/]: Closed DhWorld of type [SERVER_ONLY].
+[28Sep2026 16:25:29.317] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.util.threading.PriorityTaskPicker/]: Shutting down PriorityTaskPicker thread pool...
+[28Sep2026 16:25:29.319] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.repo.AbstractDhRepo/]: Closing all [3] database connections...
+[28Sep2026 16:25:29.319] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.repo.AbstractDhRepo/]: Closing database connection: [jdbc:dh_sqlite:.\world\DIM-1\data\DistantHorizons.sqlite]
+[28Sep2026 16:25:29.321] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.repo.AbstractDhRepo/]: Closing database connection: [jdbc:dh_sqlite:.\world\data\DistantHorizons.sqlite]
+[28Sep2026 16:25:29.340] [Server thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.sql.repo.AbstractDhRepo/]: Closing database connection: [jdbc:dh_sqlite:.\world\DIM1\data\DistantHorizons.sqlite]
+[28Sep2026 16:25:29.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Sep2026 16:25:29.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Sep2026 16:25:29.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Sep2026 16:25:29.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Create2024]'/minecraft:overworld
+[28Sep2026 16:25:29.611] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:overworld
+[28Sep2026 16:25:29.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Create2024]'/minecraft:the_nether
+[28Sep2026 16:25:29.695] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:the_nether
+[28Sep2026 16:25:29.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Create2024]'/minecraft:the_end
+[28Sep2026 16:25:29.711] [Server thread/INFO] [dev.ryanhcode.sable.Sable/]: Saving sub-levels for level 'ServerLevel[Create2024]'/minecraft:the_end
+[28Sep2026 16:25:29.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Sep2026 16:25:29.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Sep2026 16:25:29.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Sep2026 16:25:29.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
