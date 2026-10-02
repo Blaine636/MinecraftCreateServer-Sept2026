@@ -38,5 +38,5 @@ while true do
 		sleep(5)
 		up()
 	end
-	sleep(2)
+	sleep(1.5)
 end
