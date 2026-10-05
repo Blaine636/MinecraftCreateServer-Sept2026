@@ -9665,5 +9665,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2026-10-05 09:51:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2026-10-05 09:57:54 -0600"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
